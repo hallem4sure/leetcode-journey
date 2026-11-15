@@ -7,4 +7,5 @@ My journey of learning problem-solving through LeetCode
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/hallem4sure/leetcode-journey/tree/master/0620-not-boring-movies) |
+| [1251-average-selling-price](https://github.com/hallem4sure/leetcode-journey/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
